@@ -1,6 +1,6 @@
 # Hello-World
-# First project
-# First timer for GitHub
+First project
+First timer for GitHub
 
 class HelloWorld
 {
